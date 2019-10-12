@@ -963,6 +963,7 @@ log off
 log on
 log out
 look after
+look at
 look back
 look down on
 look for
@@ -1699,6 +1700,7 @@ wait upon
 wake up
 walk away from
 walk away with
+walk by
 walk in on
 walk into
 walk off
@@ -1707,6 +1709,7 @@ walk on
 walk out
 walk out on
 walk up
+walk with
 want out
 warm up
 wash away
